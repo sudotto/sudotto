@@ -1,3 +1,4 @@
+Sudotto (soo-dot-oh)
 - I'm Otto
 - i do the githubing
 - yes
