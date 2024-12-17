@@ -5,6 +5,6 @@ Sudotto (soo-dot-oh)
 
 stuff:
 - OS: arch
-- WM: i3
+- DE: Budgie
 - editor: nvim
 - main language: C
