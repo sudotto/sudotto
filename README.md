@@ -4,7 +4,7 @@ Sudotto (soo-dot-oh)
 - yes
 
 stuff:
-- OS: arch
-- DE: Budgie
-- editor: nvim
+- OS: debian
+- DE: plasma
+- editor: vim
 - main language: C
