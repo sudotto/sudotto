@@ -4,7 +4,7 @@ Sudotto (soo-dot-oh)
 - yes
 
 stuff:
-- OS: debian
-- DE: plasma
-- editor: vim
-- main language: C
+- OS: arch (i couldn't take apt anymore it was awful)
+- WM: hyprland
+- editor: neovim
+- main language: C or C++ depending on the project
