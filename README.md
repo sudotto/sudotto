@@ -1,6 +1,7 @@
 Sudotto (soo-dot-oh)
 - I'm Otto
 - i do the githubing
+- i also do the youtube for funnsies
 - yes
 
 stuff:
