@@ -5,6 +5,6 @@ Sudotto (soo-dot-oh)
 
 stuff:
 - OS: arch (i couldn't take apt anymore it was awful)
-- WM: hyprland
+- WM: ~~hyprland~~ budgie
 - editor: neovim
 - main language: C or C++ depending on the project
