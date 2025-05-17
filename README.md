@@ -8,6 +8,4 @@ stuff:
 - OS: arch (i couldn't take apt anymore it was awful)
 - WM: ~~hyprland~~ budgie
 - editor: neovim
-- main language: C for life i can't stand anything else,
-  sometimes I honestly wish I could just use assembly
-  because I like how raw and bare bones it is
+- main language: C is best (unless you disagree, in which case C is still best and you are wrong)
