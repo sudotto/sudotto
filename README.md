@@ -7,10 +7,10 @@ Sudotto (soo-dot-oh)
 - yes
 
 on my mind rn:
-- i wanna make a game but im not sure about the details
+- rosaOS
 
 stuff:
 - OS: arch (i couldn't take apt anymore it was awful)
 - WM: ~~hyprland~~ ~~budgie~~ hyprland again
 - editor: neovim
-- main language: C is best (unless you disagree, in which case C is still best and you are wrong)
+- main language: C i hate every other language other than C and assembly, i have tasted the sweet low level ichor of C and can never return to the plane of normal productive people again, i am eternally trapped in this barebones prison of my own addiction
